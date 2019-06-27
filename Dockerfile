@@ -1,4 +1,4 @@
-FROM chialab/php:7.3-apache
+FROM php:7.3-apache
 LABEL MAINTAINER "Prabhakaran V<prabhavarul@gmail.com>"
 
 ARG RACKTABLES_VERSION=0.21.3
